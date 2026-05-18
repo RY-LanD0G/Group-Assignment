@@ -1,0 +1,103 @@
+{
+  "snapshot_date": "2026-05-18",
+  "source": "petrolmate.com.au/brand/{z,bp,mobil} — scraped HTML (public, free)",
+  "currency": "NZD c/L",
+  "fuel": "Unleaded 91 (ULP)",
+  "brands": {
+    "Z": {
+      "full_name": "Z Energy",
+      "type": "major",
+      "nz_total_stations": 66,
+      "nz_avg_price": 329.4,
+      "regions": {
+        "AUK": {"stations": 32, "min": 310.0, "avg": 326.4, "max": 335.9},
+        "CAN": {"stations": 13, "min": 325.9, "avg": 331.7, "max": 335.9},
+        "WGN": {"stations":  8, "min": 325.9, "avg": 336.4, "max": 345.9},
+        "WKO": {"stations":  3, "min": 328.9, "avg": 332.9, "max": 339.9},
+        "NTL": {"stations":  2, "min": 331.9, "avg": 332.4, "max": 332.9},
+        "MWT": {"stations":  2, "min": 319.9, "avg": 324.9, "max": 329.9},
+        "BOP": {"stations":  2, "min": 319.9, "avg": 327.9, "max": 335.9},
+        "HKB": {"stations":  1, "min": 327.9, "avg": 327.9, "max": 327.9},
+        "OTA": {"stations":  1, "min": 329.9, "avg": 329.9, "max": 329.9},
+        "MBH": {"stations":  1, "min": 333.9, "avg": 333.9, "max": 333.9}
+      },
+      "cheapest_stations": [
+        {"name": "Z Roscommon Rd",   "suburb": "Wiri",                 "region": "AUK", "price": 310.0},
+        {"name": "Z Henderson Valley","suburb": "Henderson",           "region": "AUK", "price": 319.9},
+        {"name": "Z Te Atatu",       "suburb": "Te Atatū Peninsula",   "region": "AUK", "price": 319.9},
+        {"name": "Z Central Parade", "suburb": "Mount Maunganui",      "region": "BOP", "price": 319.9},
+        {"name": "Z Otahuhu",        "suburb": "Ōtāhuhu",              "region": "AUK", "price": 319.9},
+        {"name": "Z Kingsway",       "suburb": "Papakura",             "region": "AUK", "price": 319.9}
+      ]
+    },
+    "BP": {
+      "full_name": "BP",
+      "type": "major",
+      "nz_total_stations": 109,
+      "nz_avg_price": 330.3,
+      "regions": {
+        "AUK": {"stations": 45, "min": 314.9, "avg": 327.9, "max": 348.9},
+        "CAN": {"stations": 17, "min": 321.9, "avg": 332.4, "max": 338.9},
+        "WGN": {"stations": 12, "min": 318.9, "avg": 340.1, "max": 349.9},
+        "WKO": {"stations":  7, "min": 313.9, "avg": 327.6, "max": 339.9},
+        "BOP": {"stations":  7, "min": 319.9, "avg": 326.5, "max": 332.9},
+        "OTA": {"stations":  5, "min": 319.9, "avg": 331.2, "max": 334.9},
+        "NTL": {"stations":  4, "min": 326.9, "avg": 334.9, "max": 349.9},
+        "MWT": {"stations":  3, "min": 319.9, "avg": 327.2, "max": 331.9},
+        "TKI": {"stations":  2, "min": 327.9, "avg": 331.8, "max": 335.7},
+        "STL": {"stations":  2, "min": 309.9, "avg": 321.4, "max": 332.9},
+        "MBH": {"stations":  1, "min": 319.9, "avg": 319.9, "max": 319.9},
+        "HKB": {"stations":  1, "min": 332.9, "avg": 332.9, "max": 332.9},
+        "WTC": {"stations":  1, "min": 333.9, "avg": 333.9, "max": 333.9}
+      },
+      "cheapest_stations": [
+        {"name": "Rd Petroleum Invercargill","suburb": "Appleby",         "region": "STL", "price": 309.9},
+        {"name": "BP 2go Tauhara",          "suburb": "Tauhara",         "region": "WKO", "price": 313.9},
+        {"name": "BP 2go Epsom",            "suburb": "Epsom",           "region": "AUK", "price": 314.9},
+        {"name": "BP Connect Cavendish",    "suburb": "Manukau",         "region": "AUK", "price": 316.9},
+        {"name": "BP Connect Tawa",         "suburb": "Tawa",            "region": "WGN", "price": 318.9},
+        {"name": "BP Connect Horsham Downs","suburb": "Rototuna",        "region": "WKO", "price": 319.9},
+        {"name": "BP Connect Weymouth",     "suburb": "Clendon Park",    "region": "AUK", "price": 319.9},
+        {"name": "BP Connect Mangere",      "suburb": "Māngere Bridge",  "region": "AUK", "price": 319.9}
+      ]
+    },
+    "MOBIL": {
+      "full_name": "Mobil",
+      "type": "major",
+      "nz_total_stations": 73,
+      "nz_avg_price": 324.9,
+      "regions": {
+        "AUK": {"stations": 47, "min": 309.9, "avg": 323.7, "max": 339.9},
+        "CAN": {"stations": 10, "min": 316.9, "avg": 325.6, "max": 331.9},
+        "WKO": {"stations":  5, "min": 325.9, "avg": 335.5, "max": 348.9},
+        "WGN": {"stations":  4, "min": 313.9, "avg": 326.2, "max": 342.9},
+        "BOP": {"stations":  3, "min": 305.9, "avg": 314.2, "max": 319.9},
+        "OTA": {"stations":  2, "min": 328.9, "avg": 330.4, "max": 331.9},
+        "TKI": {"stations":  1, "min": 334.9, "avg": 334.9, "max": 334.9},
+        "MWT": {"stations":  1, "min": 325.9, "avg": 325.9, "max": 325.9}
+      },
+      "cheapest_stations": [
+        {"name": "Mobil Causeway",       "suburb": "Tauranga Central",  "region": "BOP", "price": 305.9},
+        {"name": "Mobil Parnell",        "suburb": "Parnell",           "region": "AUK", "price": 309.9},
+        {"name": "Mobil Manurewa South", "suburb": "Manurewa",          "region": "AUK", "price": 310.9},
+        {"name": "Mobil Glendene",       "suburb": "Glendene",          "region": "AUK", "price": 311.9},
+        {"name": "Mobil Birkdale (Verran's Corner)","suburb": "Birkdale","region": "AUK","price": 311.9},
+        {"name": "Mobil Cannons Creek",  "suburb": "Cannons Creek",     "region": "WGN", "price": 313.9},
+        {"name": "Mobil Mangere",        "suburb": "Māngere",           "region": "AUK", "price": 313.9}
+      ]
+    }
+  },
+  "nz_market_reference": {
+    "market_avg": 327.8,
+    "brand_avgs": {
+      "BP": 330.3,
+      "Mobil": 324.9,
+      "Z Energy": 329.4,
+      "Gull": 322.7,
+      "NPD": 325.1,
+      "Ampol": 329.6,
+      "Waitomo": 320.8,
+      "Independent": 324.6
+    }
+  }
+}
