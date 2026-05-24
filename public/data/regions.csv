@@ -1,0 +1,17 @@
+region_code,region_name,island,typical_diff_cents,population_2023
+NTL,Northland,North,5.0,201500
+AUK,Auckland,North,-6.0,1715600
+WKO,Waikato,North,-2.0,513800
+BOP,Bay of Plenty,North,0.0,354400
+GIS,Gisborne,North,10.0,53000
+HKB,Hawke's Bay,North,3.0,185100
+TKI,Taranaki,North,2.0,127300
+MWT,Manawatu-Whanganui,North,-1.0,263300
+WGN,Wellington,North,-3.0,551100
+TAS,Tasman,South,5.0,58700
+NSN,Nelson,South,4.0,55400
+MBH,Marlborough,South,6.0,53400
+WTC,West Coast,South,12.0,33700
+CAN,Canterbury,South,-2.0,679200
+OTA,Otago,South,0.0,256000
+STL,Southland,South,3.0,103700

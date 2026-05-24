@@ -1,47 +1,24 @@
-# ---------------------------------------------------------------------------
-# .gitignore — COMPX532 NZ Fuel Prices project
-# ---------------------------------------------------------------------------
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-*.egg-info/
-.venv/
-venv/
-env/
-.ipynb_checkpoints/
-
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# IDE / editor
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Local environment / credentials
-.env
-.env.local
-*.local
-config.local.*
-
-# Logs and temporary files
+# Logs
+logs
 *.log
-*.tmp
-*.bak
-*.cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# MySQL local files (do NOT commit accidental dumps with passwords)
-mysql.cnf
-*.my.cnf
+node_modules
+dist
+dist-ssr
+*.local
 
-# Optional: ignore large raw MBIE CSV if you want to keep the repo small
-# (uncomment if you do not want to track it)
-# raw_data/weekly-table.csv
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

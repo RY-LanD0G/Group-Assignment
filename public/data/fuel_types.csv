@@ -1,0 +1,5 @@
+fuel_code,fuel_name,octane_rating,is_petrol
+P91,Regular Petrol 91,91,1
+P95,Premium Petrol 95,95,1
+P98,Premium Petrol 98,98,1
+DSL,Automotive Diesel,,0
