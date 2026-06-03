@@ -1,70 +1,70 @@
-city_code,city_name,region_code,diff_c_vs_region,population_2023,tag
-WHG,Whangārei,NTL,-3.0,56400,urban
-KKE,Kerikeri,NTL,5.0,8200,town
-KAI,Kaitaia,NTL,8.0,5300,remote
-DAR,Dargaville,NTL,6.0,4900,town
-AKC,Auckland Central,AUK,-3.0,460000,urban
-ANS,North Shore,AUK,-2.0,290000,urban
-AMK,Manukau,AUK,-4.0,410000,urban
-PUK,Pukekohe,AUK,1.0,29000,secondary
-WHE,Waiheke Island,AUK,15.0,9800,island
-GBI,Great Barrier I.,AUK,38.0,950,island
-HAM,Hamilton,WKO,-3.0,178500,urban
-CAM,Cambridge,WKO,2.0,21300,secondary
-TEA,Te Awamutu,WKO,3.0,13400,town
-TPO,Taupō,WKO,8.0,27300,tourist
-TOK,Tokoroa,WKO,5.0,14400,town
-THA,Thames,WKO,4.0,7300,town
-TGA,Tauranga,BOP,-2.0,158300,urban
-ROT,Rotorua,BOP,3.0,74000,secondary
-WHK,Whakatāne,BOP,5.0,16300,town
-TPU,Te Puke,BOP,4.0,9700,town
-GSB,Gisborne,GIS,0.0,37000,urban
-TOL,Tolaga Bay,GIS,12.0,900,remote
-NPR,Napier,HKB,-2.0,66000,urban
-HST,Hastings,HKB,-1.0,53000,urban
-HVN,Havelock North,HKB,1.0,15800,secondary
-WAI,Waipukurau,HKB,7.0,4400,remote
-NPL,New Plymouth,TKI,-2.0,58800,urban
-HAW,Hāwera,TKI,5.0,11600,town
-STR,Stratford,TKI,6.0,5800,town
-PMR,Palmerston North,MWT,-3.0,91500,urban
-WHA,Whanganui,MWT,1.0,43500,secondary
-LVN,Levin,MWT,2.0,21000,town
-FLD,Feilding,MWT,3.0,17400,town
-TMR,Taumarunui,MWT,8.0,4700,remote
-OHK,Ōhakune,MWT,10.0,1100,tourist
-WLG,Wellington Central,WGN,-3.0,215000,urban
-LHT,Lower Hutt,WGN,-2.0,113000,urban
-UHT,Upper Hutt,WGN,-1.0,47000,secondary
-PRA,Porirua,WGN,-1.0,61000,urban
-PAR,Paraparaumu,WGN,1.0,31000,secondary
-MAS,Masterton,WGN,5.0,28500,town
-RIC,Richmond,TAS,0.0,17500,secondary
-MOT,Motueka,TAS,4.0,8500,town
-TAK,Tākaka,TAS,10.0,1300,remote
-NEL,Nelson,NSN,0.0,54000,urban
-STK,Stoke,NSN,1.0,11000,secondary
-BLE,Blenheim,MBH,0.0,29000,urban
-PIC,Picton,MBH,3.0,4500,town
-REN,Renwick,MBH,5.0,2200,town
-GRY,Greymouth,WTC,0.0,10000,urban
-WPT,Westport,WTC,5.0,4500,town
-HOK,Hokitika,WTC,3.0,3300,town
-RFT,Reefton,WTC,8.0,900,remote
-CHC,Christchurch,CAN,-3.0,396200,urban
-TIM,Timaru,CAN,3.0,29000,secondary
-ASH,Ashburton,CAN,2.0,20000,town
-RAN,Rangiora,CAN,1.0,19000,secondary
-KAI2,Kaikōura,CAN,8.0,2200,tourist
-MET,Methven,CAN,10.0,1900,tourist
-DUN,Dunedin,OTA,-3.0,134000,urban
-QNS,Queenstown,OTA,12.0,29000,tourist
-WAN,Wānaka,OTA,10.0,10000,tourist
-OAM,Oamaru,OTA,3.0,14000,town
-ALE,Alexandra,OTA,5.0,6000,town
-CRO,Cromwell,OTA,4.0,6300,town
-INV,Invercargill,STL,-2.0,56000,urban
-GOR,Gore,STL,2.0,10000,town
-TAN,Te Anau,STL,10.0,2500,tourist
-BLU,Bluff,STL,5.0,1700,town
+city_code,city_name,region_code,diff_c_vs_region,population_2023,tag,lat,lon
+WHG,Whangārei,NTL,-3.0,56400,urban,-35.73,174.32
+KKE,Kerikeri,NTL,5.0,8200,town,-35.23,173.95
+KAI,Kaitaia,NTL,8.0,5300,remote,-35.11,173.26
+DAR,Dargaville,NTL,6.0,4900,town,-35.94,173.88
+AKC,Auckland Central,AUK,-3.0,460000,urban,-36.85,174.76
+ANS,North Shore,AUK,-2.0,290000,urban,-36.79,174.74
+AMK,Manukau,AUK,-4.0,410000,urban,-36.99,174.88
+PUK,Pukekohe,AUK,1.0,29000,secondary,-37.2,174.91
+WHE,Waiheke Island,AUK,15.0,9800,island,-36.8,175.1
+GBI,Great Barrier I.,AUK,38.0,950,island,-36.2,175.4
+HAM,Hamilton,WKO,-3.0,178500,urban,-37.79,175.28
+CAM,Cambridge,WKO,2.0,21300,secondary,-37.89,175.47
+TEA,Te Awamutu,WKO,3.0,13400,town,-38.01,175.32
+TPO,Taupō,WKO,8.0,27300,tourist,-38.69,176.07
+TOK,Tokoroa,WKO,5.0,14400,town,-38.22,175.87
+THA,Thames,WKO,4.0,7300,town,-37.14,175.54
+TGA,Tauranga,BOP,-2.0,158300,urban,-37.69,176.17
+ROT,Rotorua,BOP,3.0,74000,secondary,-38.14,176.25
+WHK,Whakatāne,BOP,5.0,16300,town,-37.96,176.99
+TPU,Te Puke,BOP,4.0,9700,town,-37.79,176.34
+GSB,Gisborne,GIS,0.0,37000,urban,-38.66,178.02
+TOL,Tolaga Bay,GIS,12.0,900,remote,-38.37,178.3
+NPR,Napier,HKB,-2.0,66000,urban,-39.49,176.91
+HST,Hastings,HKB,-1.0,53000,urban,-39.64,176.85
+HVN,Havelock North,HKB,1.0,15800,secondary,-39.67,176.88
+WAI,Waipukurau,HKB,7.0,4400,remote,-40.0,176.55
+NPL,New Plymouth,TKI,-2.0,58800,urban,-39.06,174.08
+HAW,Hāwera,TKI,5.0,11600,town,-39.59,174.28
+STR,Stratford,TKI,6.0,5800,town,-39.34,174.28
+PMR,Palmerston North,MWT,-3.0,91500,urban,-40.36,175.61
+WHA,Whanganui,MWT,1.0,43500,secondary,-39.93,175.05
+LVN,Levin,MWT,2.0,21000,town,-40.62,175.28
+FLD,Feilding,MWT,3.0,17400,town,-40.23,175.57
+TMR,Taumarunui,MWT,8.0,4700,remote,-38.88,175.27
+OHK,Ōhakune,MWT,10.0,1100,tourist,-39.42,175.4
+WLG,Wellington Central,WGN,-3.0,215000,urban,-41.29,174.78
+LHT,Lower Hutt,WGN,-2.0,113000,urban,-41.21,174.91
+UHT,Upper Hutt,WGN,-1.0,47000,secondary,-41.13,175.06
+PRA,Porirua,WGN,-1.0,61000,urban,-41.13,174.84
+PAR,Paraparaumu,WGN,1.0,31000,secondary,-40.92,175.0
+MAS,Masterton,WGN,5.0,28500,town,-40.96,175.66
+RIC,Richmond,TAS,0.0,17500,secondary,-41.34,173.18
+MOT,Motueka,TAS,4.0,8500,town,-41.11,173.01
+TAK,Tākaka,TAS,10.0,1300,remote,-40.85,172.81
+NEL,Nelson,NSN,0.0,54000,urban,-41.27,173.28
+STK,Stoke,NSN,1.0,11000,secondary,-41.32,173.24
+BLE,Blenheim,MBH,0.0,29000,urban,-41.51,173.96
+PIC,Picton,MBH,3.0,4500,town,-41.29,174.0
+REN,Renwick,MBH,5.0,2200,town,-41.5,173.84
+GRY,Greymouth,WTC,0.0,10000,urban,-42.45,171.21
+WPT,Westport,WTC,5.0,4500,town,-41.75,171.6
+HOK,Hokitika,WTC,3.0,3300,town,-42.72,170.97
+RFT,Reefton,WTC,8.0,900,remote,-42.12,171.86
+CHC,Christchurch,CAN,-3.0,396200,urban,-43.53,172.64
+TIM,Timaru,CAN,3.0,29000,secondary,-44.4,171.25
+ASH,Ashburton,CAN,2.0,20000,town,-43.9,171.74
+RAN,Rangiora,CAN,1.0,19000,secondary,-43.3,172.59
+KAI2,Kaikōura,CAN,8.0,2200,tourist,-42.4,173.68
+MET,Methven,CAN,10.0,1900,tourist,-43.63,171.65
+DUN,Dunedin,OTA,-3.0,134000,urban,-45.88,170.5
+QNS,Queenstown,OTA,12.0,29000,tourist,-45.03,168.66
+WAN,Wānaka,OTA,10.0,10000,tourist,-44.7,169.13
+OAM,Oamaru,OTA,3.0,14000,town,-45.1,170.97
+ALE,Alexandra,OTA,5.0,6000,town,-45.25,169.39
+CRO,Cromwell,OTA,4.0,6300,town,-45.05,169.2
+INV,Invercargill,STL,-2.0,56000,urban,-46.41,168.36
+GOR,Gore,STL,2.0,10000,town,-46.1,168.94
+TAN,Te Anau,STL,10.0,2500,tourist,-45.41,167.72
+BLU,Bluff,STL,5.0,1700,town,-46.6,168.34

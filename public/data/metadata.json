@@ -1,0 +1,57 @@
+{
+  "dataset": "NZ Fuel Prices — Frontend Bundle",
+  "generated_at": "2026-06-03T10:54:44",
+  "weeks_covered": 122,
+  "date_range": [
+    "2024-01-05",
+    "2026-05-01"
+  ],
+  "fuels": [
+    "P91",
+    "P95",
+    "P98",
+    "DSL"
+  ],
+  "regions": 16,
+  "cities": 69,
+  "brands": [
+    "Z",
+    "BP",
+    "MOBIL"
+  ],
+  "files": {
+    "regions.csv": "16 regions w/ centroid lat/lon",
+    "cities.csv": "69 cities w/ lat/lon and region_code",
+    "fuel_types.csv": "4 fuel types",
+    "brands.csv": "3 brands (Z, BP, Mobil)",
+    "events.csv": "Policy events",
+    "regions.geojson": "Simplified region polygons (choropleth)",
+    "national_weekly.csv": "MBIE national weekly + season/year/month",
+    "national_weekly.json": "Pivoted by fuel: {fuel: [{date, value}]}",
+    "island_weekly.csv": "Population-weighted North/South Island weekly avg",
+    "fuel_prices_long.csv": "Region weekly (7,808 rows)",
+    "city_fuel_prices_long.csv": "City weekly (33,672 rows)",
+    "brand_city_prices_long.csv": "Brand x city weekly (76,128 rows)",
+    "regional_weekly.json": "{date: {region: {fuel: price}}} compact",
+    "city_highways.csv": "City -> State Highway mapping (truck driver persona)",
+    "cheapest_brand_per_region_latest.csv": "Cheapest brand per region (latest week)"
+  },
+  "personas": {
+    "everyday_driver": [
+      "regions.geojson",
+      "cheapest_brand_per_region_latest.csv",
+      "cities.csv"
+    ],
+    "truck_driver": [
+      "city_highways.csv",
+      "fuel_prices_long.csv",
+      "regional_weekly.json"
+    ],
+    "fleet_manager": [
+      "fuel_prices_long.csv",
+      "national_weekly.csv",
+      "island_weekly.csv",
+      "brand_city_prices_long.csv"
+    ]
+  }
+}

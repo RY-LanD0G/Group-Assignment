@@ -1,0 +1,70 @@
+city_code,city_name,region_code,highways,on_sh1,on_sh2,on_sh6
+WHG,Whangārei,NTL,SH1,True,False,False
+KKE,Kerikeri,NTL,SH10,False,False,False
+KAI,Kaitaia,NTL,SH10,False,False,False
+DAR,Dargaville,NTL,SH12,False,False,False
+AKC,Auckland Central,AUK,SH1,True,False,False
+ANS,North Shore,AUK,SH1,True,False,False
+AMK,Manukau,AUK,SH1,True,False,False
+PUK,Pukekohe,AUK,SH1,True,False,False
+WHE,Waiheke Island,AUK,,False,False,False
+GBI,Great Barrier I.,AUK,,False,False,False
+HAM,Hamilton,WKO,SH1,True,False,False
+CAM,Cambridge,WKO,SH1,True,False,False
+TEA,Te Awamutu,WKO,SH3,False,False,False
+TPO,Taupō,WKO,SH1,True,False,False
+TOK,Tokoroa,WKO,SH1,True,False,False
+THA,Thames,WKO,SH2,False,True,False
+TGA,Tauranga,BOP,SH2,False,True,False
+ROT,Rotorua,BOP,SH5,False,False,False
+WHK,Whakatāne,BOP,SH2,False,True,False
+TPU,Te Puke,BOP,SH2,False,True,False
+GSB,Gisborne,GIS,SH2,False,True,False
+TOL,Tolaga Bay,GIS,SH2,False,True,False
+NPR,Napier,HKB,SH2,False,True,False
+HST,Hastings,HKB,SH2,False,True,False
+HVN,Havelock North,HKB,SH2,False,True,False
+WAI,Waipukurau,HKB,SH2,False,True,False
+NPL,New Plymouth,TKI,SH3,False,False,False
+HAW,Hāwera,TKI,SH3,False,False,False
+STR,Stratford,TKI,SH3,False,False,False
+PMR,Palmerston North,MWT,SH1,True,False,False
+WHA,Whanganui,MWT,SH3,False,False,False
+LVN,Levin,MWT,SH1,True,False,False
+FLD,Feilding,MWT,SH3,False,False,False
+TMR,Taumarunui,MWT,SH1,True,False,False
+OHK,Ōhakune,MWT,SH4,False,False,False
+WLG,Wellington Central,WGN,SH1,True,False,False
+LHT,Lower Hutt,WGN,SH1,True,False,False
+UHT,Upper Hutt,WGN,SH1,True,False,False
+PRA,Porirua,WGN,SH1,True,False,False
+PAR,Paraparaumu,WGN,SH1,True,False,False
+MAS,Masterton,WGN,SH2,False,True,False
+RIC,Richmond,TAS,SH6,False,False,True
+MOT,Motueka,TAS,SH6,False,False,True
+TAK,Tākaka,TAS,SH60,False,False,False
+NEL,Nelson,NSN,SH6,False,False,True
+STK,Stoke,NSN,SH6,False,False,True
+BLE,Blenheim,MBH,SH1,True,False,False
+PIC,Picton,MBH,SH1,True,False,False
+REN,Renwick,MBH,SH7,False,False,False
+GRY,Greymouth,WTC,SH6,False,False,True
+WPT,Westport,WTC,SH6,False,False,True
+HOK,Hokitika,WTC,SH6,False,False,True
+RFT,Reefton,WTC,SH7,False,False,False
+CHC,Christchurch,CAN,SH1,True,False,False
+TIM,Timaru,CAN,SH1,True,False,False
+ASH,Ashburton,CAN,SH1,True,False,False
+RAN,Rangiora,CAN,SH7,False,False,False
+KAI2,Kaikōura,CAN,SH1,True,False,False
+MET,Methven,CAN,SH8,False,False,False
+DUN,Dunedin,OTA,SH1,True,False,False
+QNS,Queenstown,OTA,SH6,False,False,True
+WAN,Wānaka,OTA,SH6,False,False,True
+OAM,Oamaru,OTA,SH1,True,False,False
+ALE,Alexandra,OTA,SH8,False,False,False
+CRO,Cromwell,OTA,SH6,False,False,True
+INV,Invercargill,STL,SH1,True,False,False
+GOR,Gore,STL,SH1,True,False,False
+TAN,Te Anau,STL,SH94,False,False,False
+BLU,Bluff,STL,SH1,True,False,False

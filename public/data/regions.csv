@@ -1,17 +1,17 @@
-region_code,region_name,island,typical_diff_cents,population_2023
-NTL,Northland,North,5.0,201500
-AUK,Auckland,North,-6.0,1715600
-WKO,Waikato,North,-2.0,513800
-BOP,Bay of Plenty,North,0.0,354400
-GIS,Gisborne,North,10.0,53000
-HKB,Hawke's Bay,North,3.0,185100
-TKI,Taranaki,North,2.0,127300
-MWT,Manawatu-Whanganui,North,-1.0,263300
-WGN,Wellington,North,-3.0,551100
-TAS,Tasman,South,5.0,58700
-NSN,Nelson,South,4.0,55400
-MBH,Marlborough,South,6.0,53400
-WTC,West Coast,South,12.0,33700
-CAN,Canterbury,South,-2.0,679200
-OTA,Otago,South,0.0,256000
-STL,Southland,South,3.0,103700
+region_code,region_name,island,typical_diff_cents,population_2023,lat,lon
+NTL,Northland,North,5.0,201500,-35.6,173.9
+AUK,Auckland,North,-6.0,1715600,-36.85,174.76
+WKO,Waikato,North,-2.0,513800,-37.78,175.28
+BOP,Bay of Plenty,North,0.0,354400,-37.93,176.95
+GIS,Gisborne,North,10.0,53000,-38.5,177.9
+HKB,Hawke's Bay,North,3.0,185100,-39.5,176.85
+TKI,Taranaki,North,2.0,127300,-39.34,174.14
+MWT,Manawatu-Whanganui,North,-1.0,263300,-39.8,175.5
+WGN,Wellington,North,-3.0,551100,-41.1,175.3
+TAS,Tasman,South,5.0,58700,-41.4,172.85
+NSN,Nelson,South,4.0,55400,-41.27,173.28
+MBH,Marlborough,South,6.0,53400,-41.7,173.85
+WTC,West Coast,South,12.0,33700,-42.8,171.3
+CAN,Canterbury,South,-2.0,679200,-43.7,171.8
+OTA,Otago,South,0.0,256000,-45.4,170.0
+STL,Southland,South,3.0,103700,-46.2,168.3
