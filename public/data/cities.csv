@@ -1,0 +1,70 @@
+city_code,city_name,region_code,diff_c_vs_region,population_2023,tag
+WHG,Whangārei,NTL,-3.0,56400,urban
+KKE,Kerikeri,NTL,5.0,8200,town
+KAI,Kaitaia,NTL,8.0,5300,remote
+DAR,Dargaville,NTL,6.0,4900,town
+AKC,Auckland Central,AUK,-3.0,460000,urban
+ANS,North Shore,AUK,-2.0,290000,urban
+AMK,Manukau,AUK,-4.0,410000,urban
+PUK,Pukekohe,AUK,1.0,29000,secondary
+WHE,Waiheke Island,AUK,15.0,9800,island
+GBI,Great Barrier I.,AUK,38.0,950,island
+HAM,Hamilton,WKO,-3.0,178500,urban
+CAM,Cambridge,WKO,2.0,21300,secondary
+TEA,Te Awamutu,WKO,3.0,13400,town
+TPO,Taupō,WKO,8.0,27300,tourist
+TOK,Tokoroa,WKO,5.0,14400,town
+THA,Thames,WKO,4.0,7300,town
+TGA,Tauranga,BOP,-2.0,158300,urban
+ROT,Rotorua,BOP,3.0,74000,secondary
+WHK,Whakatāne,BOP,5.0,16300,town
+TPU,Te Puke,BOP,4.0,9700,town
+GSB,Gisborne,GIS,0.0,37000,urban
+TOL,Tolaga Bay,GIS,12.0,900,remote
+NPR,Napier,HKB,-2.0,66000,urban
+HST,Hastings,HKB,-1.0,53000,urban
+HVN,Havelock North,HKB,1.0,15800,secondary
+WAI,Waipukurau,HKB,7.0,4400,remote
+NPL,New Plymouth,TKI,-2.0,58800,urban
+HAW,Hāwera,TKI,5.0,11600,town
+STR,Stratford,TKI,6.0,5800,town
+PMR,Palmerston North,MWT,-3.0,91500,urban
+WHA,Whanganui,MWT,1.0,43500,secondary
+LVN,Levin,MWT,2.0,21000,town
+FLD,Feilding,MWT,3.0,17400,town
+TMR,Taumarunui,MWT,8.0,4700,remote
+OHK,Ōhakune,MWT,10.0,1100,tourist
+WLG,Wellington Central,WGN,-3.0,215000,urban
+LHT,Lower Hutt,WGN,-2.0,113000,urban
+UHT,Upper Hutt,WGN,-1.0,47000,secondary
+PRA,Porirua,WGN,-1.0,61000,urban
+PAR,Paraparaumu,WGN,1.0,31000,secondary
+MAS,Masterton,WGN,5.0,28500,town
+RIC,Richmond,TAS,0.0,17500,secondary
+MOT,Motueka,TAS,4.0,8500,town
+TAK,Tākaka,TAS,10.0,1300,remote
+NEL,Nelson,NSN,0.0,54000,urban
+STK,Stoke,NSN,1.0,11000,secondary
+BLE,Blenheim,MBH,0.0,29000,urban
+PIC,Picton,MBH,3.0,4500,town
+REN,Renwick,MBH,5.0,2200,town
+GRY,Greymouth,WTC,0.0,10000,urban
+WPT,Westport,WTC,5.0,4500,town
+HOK,Hokitika,WTC,3.0,3300,town
+RFT,Reefton,WTC,8.0,900,remote
+CHC,Christchurch,CAN,-3.0,396200,urban
+TIM,Timaru,CAN,3.0,29000,secondary
+ASH,Ashburton,CAN,2.0,20000,town
+RAN,Rangiora,CAN,1.0,19000,secondary
+KAI2,Kaikōura,CAN,8.0,2200,tourist
+MET,Methven,CAN,10.0,1900,tourist
+DUN,Dunedin,OTA,-3.0,134000,urban
+QNS,Queenstown,OTA,12.0,29000,tourist
+WAN,Wānaka,OTA,10.0,10000,tourist
+OAM,Oamaru,OTA,3.0,14000,town
+ALE,Alexandra,OTA,5.0,6000,town
+CRO,Cromwell,OTA,4.0,6300,town
+INV,Invercargill,STL,-2.0,56000,urban
+GOR,Gore,STL,2.0,10000,town
+TAN,Te Anau,STL,10.0,2500,tourist
+BLU,Bluff,STL,5.0,1700,town
